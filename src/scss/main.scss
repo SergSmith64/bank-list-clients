@@ -1,0 +1,17 @@
+// @import "base/fonts";
+// @import "abstract/variables";
+// @import "components/button";
+// @import "layout/nav-bar";
+// @import "components/workspace";
+// @import "components/switcher";
+// @import "components/tools";
+// @import "components/colors";
+
+
+body {
+    position: relative;
+    min-width: 320px;
+    margin: 0 auto;
+    width: 1024px;
+    background-color: #CCC;
+}
